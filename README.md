@@ -2,5 +2,4 @@
 
 Stack using dualy-linked list.
 
-[Dualy-Linked List][1]
-[1]:https://github.com/63rabbits/DualyLinkedList
+[Dualy-Linked List](https://github.com/63rabbits/DualyLinkedList)
